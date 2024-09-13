@@ -1,10 +1,10 @@
 ## Marco Aurélio Minozzo
-### Data Scientist | Machine Learning Enthusiast | Education, Financial, Motorsport & SIMracing Markets Expert
+### Data Scientist | Machine Learning Enthusiast | Education, Financial, Motorsport & Simracing Markets Expert
 
 With over 20 years of experience across diverse industries, I specialize in leveraging data science and machine learning to solve complex problems in motorsport analytics, education, and financial markets. Currently, I lead a team of data scientists at Pandora DataScience Ltda., where we focus on delivering data-driven solutions to enhance business strategies and optimize decision-making processes.
 
 ### Areas of Expertise:
-- **Motorsport Analytics:** I apply data science techniques to analyze telemetry, optimize race strategies, and enhance vehicle and driver performance in motorsports.
+- **Motorsport and Simracing Analytics:** I apply data science techniques to analyze telemetry, optimize race strategies, and enhance vehicle and driver performance in motorsports.
 - **Learning Analytics:** Passionate about improving education through machine learning, I build predictive models that help personalize learning experiences and identify at-risk students.
 - **Financial Market Analysis:** I develop and implement machine learning models for stock price prediction, risk management, and market trend analysis to assist in capital market decision-making.
 
