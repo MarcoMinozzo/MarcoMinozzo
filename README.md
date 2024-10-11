@@ -1,5 +1,5 @@
 ## Marco Aurélio Minozzo
-### Software Engineer | Data Scientist | Machine Learning Enthusiast | Education, Financial, Motorsport & Simracing Markets Expert
+### Software Engineer | Data Scientist | Machine Learning Enthusiast | Education, Marketing Strategies, Motorsport & Simracing Markets Expert
 
 With over 20 years of experience in the IT and Telecommunications industry, specializing in data infrastructure, software development, and data science. I develop the necessary infrastructure for deploying cloud-based websites and platforms, manage databases, and leverage data science and machine learning to solve complex problems in consumer behavior, education, and other markets. Focused on delivering digital solutions for businesses or data-driven strategies to enhance decision-making processes and optimize strategies.
 
